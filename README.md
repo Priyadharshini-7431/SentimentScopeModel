@@ -60,7 +60,7 @@ The model predicts whether a movie review expresses positive or negative sentime
 
 # Results
 
-- Test Accuracy: 76%
+- Test Accuracy: 76.72%
 - Task: Binary sentiment classification
 - Output classes: Positive and Negative
 
